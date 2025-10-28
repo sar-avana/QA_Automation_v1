@@ -1,0 +1,6 @@
+snowflake:
+  account: "komodohealth"
+  user: "SBL"
+  warehouse: "SOLSTR_4XL_WH"
+  role: "NEST_HEALTHTECH_TEM"
+  authenticator: "externalbrowser"  
